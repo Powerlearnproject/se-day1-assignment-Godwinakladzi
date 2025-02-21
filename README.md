@@ -52,15 +52,14 @@ Changing Requirements: Requirements may change during the development cycle, lea
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing:
-
 Definition: Tests individual units of code, typically functions or methods.
 Importance: Validates the smallest building blocks of software, ensuring they function correctly in isolation.
-Integration Testing:
 
+Integration Testing:
 Definition: Tests how different modules or components of a system work together.
 Importance: Ensures that modules interact smoothly and meet functional requirements when integrated.
-System Testing:
 
+System Testing:
 Definition: Tests the entire system as a whole, simulating real-world scenarios.
 Importance: Verifies that the system meets its overall objectives and performs as expected from an end-user's perspective
 
